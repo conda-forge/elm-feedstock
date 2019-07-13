@@ -14,7 +14,7 @@ source:
   sha256: cb6fa4656b67915b0f91ae04e23f145e96330472c8d96d25e5b21b1f2118b927  # [win]
 
 build:
-  number: 0
+  number: 1
 
 test:
   commands:
@@ -35,3 +35,4 @@ about:
 extra:
   recipe-maintainers:
     - scopatz
+    - ericdill
